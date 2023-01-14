@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <p align="center">
-  <img width="240" src="https://mister-hope.github.io/mdit-plugins/logo.svg" style="text-align: center;">
+  <img width="240" src="https://mdit-plugins.github.io/logo.svg" style="text-align: center;">
 </p>
 <h1 align="center">markdown-it plugin collections</h1>
 <h4 align="center">Some awesome markdown-it plugin written in typescript✨</h4>
